@@ -17,5 +17,5 @@ jobs:
         uses: gitopia/gitopia-mirror-action@v0.5.0
         with:
           gitopiaWallet: "${{ secrets.GITOPIA_WALLET }}"
-          remoteUrl: "gitopia://pasmaeldo/ammswapdex"
+          remoteUrl: "gitopia://gitopia150ypc43yt82zmfycn8qf5y0wump9xa9etdz986/ammswapdex"
           force: false
